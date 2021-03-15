@@ -1,0 +1,19 @@
+{
+  "name": "lottoland-ciklum",
+  "version": "1.0.0",
+  "description": "technical task",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nano3606/ciklum-lottoland.git"
+  },
+  "author": "Fernando Nieto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nano3606/ciklum-lottoland/issues"
+  },
+  "homepage": "https://github.com/nano3606/ciklum-lottoland#readme"
+}
